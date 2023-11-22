@@ -44,7 +44,7 @@ def metodo_facil():
 
     print(ids)
 
-metodo_facil()
+# metodo_facil()
 
 
-# grafico1()
+grafico1()
